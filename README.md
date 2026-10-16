@@ -1,4 +1,4 @@
-# DiffStyle: Leverage Diffusion Prior to One-for-All Style Transfer
+# 文本驱动的图像风格迁移：通过 Stable Diffusion 模型、Prompt-to-Prompt 与 Null-Text Inversion 实现精确视觉操控
 
 > *Stable Diffusion* Implementation, our method is built on Prompt-to-Prompt and Null-Text
 
